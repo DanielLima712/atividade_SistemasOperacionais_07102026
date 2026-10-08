@@ -1,2 +1,1 @@
-# atividade_SistemasOperacionais_07102026
-Atividade de gerenciamento de memória utilizando python
+https://colab.research.google.com/drive/1ZLuEIwoUQLYIVloIlDoE2q5WqatXo4hR?authuser=3#scrollTo=gtPHv9GLlfNF
